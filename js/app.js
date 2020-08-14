@@ -78,6 +78,9 @@ $(function() {
     $( "#contactUs" ).click(function() {
       alert("Our Website Has Been Completing Soon, Sorry For This Inconvenience!\nPlease Contact Us Via:\n - Email: sales@osirisparts.com\n - Phone: +1 778 953 1682");
     });
+    $( ".contact-us" ).click(function() {
+      alert("Our Website Has Been Completing Soon, Sorry For This Inconvenience!\nPlease Contact Us Via:\n - Email: sales@osirisparts.com\n - Phone: +1 778 953 1682");
+    });
 });
 
 
