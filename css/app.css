@@ -8572,21 +8572,15 @@ body {
     .header .top-menu .header-logo {
       text-align: center;
       display: inline-block; }
-      .header .top-menu .header-logo .logo, .header .top-menu .header-logo .logo-white {
+      .header .top-menu .header-logo .logo {
         width: auto;
         height: 48px; }
         @media (min-width: 992px) {
-          .header .top-menu .header-logo .logo, .header .top-menu .header-logo .logo-white {
+          .header .top-menu .header-logo .logo {
             width: auto;
             height: 72px; } }
-      .header .top-menu .header-logo .logo-white {
-        display: inline-block;
-        -webkit-animation: fadeIn 0.2s;
-        animation: fadeIn 0.2s; }
       .header .top-menu .header-logo .logo {
-        display: none;
-        -webkit-animation: fadeOut 0.2s;
-        animation: fadeOut 0.2s; }
+        display: inline-block; }
   .header .navbar-menu-wrapper {
     padding-top: 0px;
     padding-bottom: 0px; }
@@ -8680,14 +8674,6 @@ body {
         right: 15px; }
   .header:hover {
     background-color: #1b1b1b; }
-    .header:hover .header-logo .logo-white {
-      display: none;
-      -webkit-animation: fadeOut 0.2s;
-      animation: fadeOut 0.2s; }
-    .header:hover .header-logo .logo {
-      display: inline-block;
-      -webkit-animation: fadeIn 0.2s;
-      animation: fadeIn 0.2s; }
   .header.scroll {
     background-color: #1b1b1b;
     -webkit-transition: all .2s ease-in-out;
