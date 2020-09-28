@@ -9182,4 +9182,9 @@ footer {
 
 .table-lcd tbody tr td {
   background: rgba(193, 180, 151, 0.25);
+  border-top: 1px solid #fff !important; 
+}
+
+.table thead th {
+  border-color: #C1B497 !important;
 }
