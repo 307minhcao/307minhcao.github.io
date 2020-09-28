@@ -9179,3 +9179,7 @@ footer {
   border-bottom: 0;
   border-left: 4px solid transparent;
   margin-left: 4px; }
+
+.table-lcd tbody tr td {
+  background: rgba(193, 180, 151, 0.25);
+}
