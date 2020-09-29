@@ -76,10 +76,10 @@ $(function() {
       $('#brandName').text(htmlString)
     });
     $( "#contactUs" ).click(function() {
-      alert("Our Website Has Been Completing Soon, Sorry For This Inconvenience!\nPlease Contact Us Via:\n - Email: sales@osirisparts.com\n - Phone: +1 778 953 1682");
+      alert("Our Website Has Been Completing Soon, Sorry For This Inconvenience!\nPlease Contact Us Via:\n - Email: support@osirisparts.com\n - Phone | Business Whatsapp: +1 604 212 1620");
     });
     $( ".contact-us" ).click(function() {
-      alert("Our Website Has Been Completing Soon, Sorry For This Inconvenience!\nPlease Contact Us Via:\n - Email: sales@osirisparts.com\n - Phone: +1 778 953 1682");
+      alert("Our Website Has Been Completing Soon, Sorry For This Inconvenience!\nPlease Contact Us Via:\n - Email: support@osirisparts.com\n - Phone | Business Whatsapp: +1 604 212 1620");
     });
 });
 
