@@ -76,10 +76,10 @@ $(function() {
       $('#brandName').text(htmlString)
     });
     $( "#contactUs" ).click(function() {
-      alert("Our Website Has Been Completing Soon, Sorry For This Inconvenience!\nPlease Contact Us Via:\n - Email: support@osirisparts.com\n - Phone | Business Whatsapp: +1 604 212 1620");
+      alert("Our Website Has Been Completing Soon, Sorry For This Inconvenience!\nPlease Contact Us Via:\n - Email: support@osirisparts.com\n - Phone | Business Whatsapp: +1 604 212 1620\n - Address: 5684 Eglinton St, Burnaby, BC V5G 2B6, Canada");
     });
     $( ".contact-us" ).click(function() {
-      alert("Our Website Has Been Completing Soon, Sorry For This Inconvenience!\nPlease Contact Us Via:\n - Email: support@osirisparts.com\n - Phone | Business Whatsapp: +1 604 212 1620");
+      alert("Our Website Has Been Completing Soon, Sorry For This Inconvenience!\nPlease Contact Us Via:\n - Email: support@osirisparts.com\n - Phone | Business Whatsapp: +1 604 212 1620\n - Address: 5684 Eglinton St, Burnaby, BC V5G 2B6, Canada");
     });
 });
 
